@@ -51,6 +51,7 @@ class App extends React.Component{
         <Playlist />
         <Playlist />
         <Playlist />
+      
       </div>
     );
   }
